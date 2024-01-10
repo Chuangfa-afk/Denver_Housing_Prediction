@@ -45,6 +45,9 @@ Models were trained using GPU acceleration. We employed mean-squared loss for tr
 
 Our final submission was based on the predictions from the best-performing model. We successfully achieved the lowest error rate on the test set, leading to our first-place position in the competition.
 
+### Authors
+Chuangfa Liang, Guan Yan, Jingjing Hu, Erik Henig, Nupur Shah
+
 ## Key Deliverables
 
 - **Jupyter Notebook**: Containing all PyTorch code with detailed explanations and markdown text.
